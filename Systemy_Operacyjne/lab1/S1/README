@@ -1,0 +1,6 @@
+Skrypt nr 1
+Zmiana  nazw  wszystkich  plików  w  zadanym  katalogu  (parametr  wywołania  skryptu),  do  których mamy ustawione prawo zapisu, przez dopisanie dodatkowego członu .old. Wcześniej należy skasować wszystkie pliki, które już mają takie rozszerzenie. 
+
+dla eksperymentu: pliki kasowane i te których nazwa została zmieniona znajdują się w katalogu 'kat'
+
+wywołanie: ./script1.sh kat

@@ -1,0 +1,6 @@
+Skrypt nr 8
+Listowanie   plików   z   zadanego   katalogu   (parametr   wywołania   skryptu),   wraz   z   jego   podkatalogami.  Zawartość  podkatalogów  ma  być  listowana  w  postaci  <ścieżka dostępu względem listowanego katalogu>/<nazwa pliku>.  Ograniczyć  liczbę  zagnieżdżeń  podkatalogów (np. do dwóch). 
+
+W celu testowania działania skryptu zrobiono drzewo katalogów. W skrypcie ustawiana jest głębokość do której skrypt ma wypisywać pliki. Ustalono, że nazwy katalogów również będą wyświetlane. 
+
+Wywołanie dla obecnych danych: ./script8.sh kat

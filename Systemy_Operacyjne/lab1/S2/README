@@ -1,0 +1,7 @@
+Skrypt nr 2 
+Tworzenie  nowych  plików  w  zadanym  katalogu  (parametr  wywołania skryptu), według listy umieszczonej  w  pliku  (drugi  parametr  wywołania  skryptu).  Nowe  pliki  mają  być zerowej  wielkości (puste). Jeżeli jakiś plik już istnieje, to nie powinien zostać zniszczony. 
+
+Przykladowy katalog do wprowadzania zmian - kat
+Przykladowe nazwy plikow zawarte w katalogu - dane
+
+Wywołanie dla obecnych przykładowych danych: ./script2.sh kat dane

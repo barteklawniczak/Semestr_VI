@@ -1,0 +1,9 @@
+#!/bin/bash
+
+rm *.old
+for nazwa in *
+do
+#        if [ -w $nazwa ]
+#                  mv $nazwa $nazwa.old
+#        fi
+done

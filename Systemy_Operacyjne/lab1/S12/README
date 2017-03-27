@@ -1,0 +1,8 @@
+Skrypt nr 12 
+Usuwanie   wszystkich   podkatalogów   zadanego   katalogu   (parametr   wywołania   skryptu).   Zawartość tych podkatalogów należy przenieść do katalogu nadrzędnego. Usuwanie dotyczy tylko jednego poziomu podkatalogów. 
+
+Katalog służący do doświadczeń: kat
+Zawiera on dwa podkatalogi. Pierwszy z nich zawiera plik plik1_podkat1, drugi z nich zawiera dwa pliki: plik1_podkat2 oraz plik2_podkat2, jak również kolejny podkatalog - ppodkat2.
+W wyniku działania skryptu usunięte zostaną podkatalogi katalogu kat, a zawartość usuwanych podkatalogów zostanie przeniesiona do kat.
+
+Wywołanie: ./script12.sh kat

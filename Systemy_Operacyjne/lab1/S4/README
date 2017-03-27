@@ -1,0 +1,13 @@
+Skrypt nr 4 
+Numerowanie  wszystkich  plików  w  zadanym  katalogu  (parametr  wywołania  skryptu),  do  których  mamy  ustawione  prawo  wykonywania    („execute”),  przez  dodanie  dodatkowego  członu  rozszerzenia  o  postaci  .<numer kolejny>.  Numeracja  powinna  przebiegać  według wielkości plików.
+
+Pliki służące do testowania znajdują się w katalogu kat. Ich specyfikacja
+katalog - katalog
+plik1 - plik bez prawa wykonywania, największy
+plik2 - plik bez prawa wykonywania, najmniejszy
+plik3 - plik bez prawa wykonywania, średniej wielkości
+plik_exe - plik z prawem wykonywania
+
+wykonanie skryptu: ./script4.sh kat
+
+po pierwszorazowym wykonaniu skryptu: plik1->plik1.1, plik2->plik2.3, plik3->plik3.2

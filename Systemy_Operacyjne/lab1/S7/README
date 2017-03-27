@@ -1,0 +1,7 @@
+Skrypt nr 7 
+Przesuwanie  wszystkich  plików  z  ustawionym  prawem  wykonywania  z  jednego  katalogu  do  drugiego.   Pozostałe   pliki   w   katalogu   nie   powinny   być   ruszane.   Nazwy   katalogów,   źródłowego i docelowego, zadawane jako parametry skryptu. 
+
+Pliki z prawem wykonywania znajdują się w kat1 i nazywają się plik1 oraz plik4.
+Po wykonaniu skryptu zostaną przeniesione do kat2. plik2 oraz plik3 pozostaną w kat1.
+
+przykładowe wykonanie (dla sytuacji opisanej powyżej): ./script7.sh kat1 kat2 

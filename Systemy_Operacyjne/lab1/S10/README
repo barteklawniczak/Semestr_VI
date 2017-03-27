@@ -1,0 +1,6 @@
+Skrypt nr 10 
+Porównanie  zawartości  dwóch  zadanych  katalogów  (argumenty  skryptu).  Przy  porównaniu  należy ignorowć podkatalogi. W wyniku wyświetlić na ekranie listę plików o identycznych nazwach w obu katalogach. 
+
+Przykładowe wykonanie dla katalogów: ./script10.sh kat1 kat2
+
+Na ekranie pojawią się pliki, które mają taką samą nazwę w obu katalogach. Mimo obecności tak samo nazwanych podkatalogów, są one ignorowane.

@@ -1,0 +1,8 @@
+Skrypt nr 5 
+Łączenie w jeden wszystkich plików należących do zadanego katalogu (parametr wywołania skryptu), o zadanym rozszerzeniu (drugi parametr skryptu). Kolejność, w jakiej pliki zostanąpołączone  -  nieistotna.  Treść  każdego  pliku  powinna  być  poprzedzona  nagłówkiem  z  jego  nazwą
+
+pliki służące do testowania w katalogu kat
+
+przykładowe wykonanie skryptu: ./script5.sh kat roz
+
+powstaje nowy plik (jeżeli jeszcze go w katalogu nie ma) o nazwie plik_z_danymi. Zawarte są w niej dane z plików o zadanym w drugim argumencie rozszerzeniu wedle treści zadania.

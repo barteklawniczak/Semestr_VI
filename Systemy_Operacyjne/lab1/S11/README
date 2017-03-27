@@ -1,0 +1,7 @@
+Skrypt nr 11 
+Porównanie  zawartości  zadanego  katalogu  z  listą  plików  (nazwa  katalogu  i  pliku  z  listązadawana   w   argumentach   skryptu).   Należy   wygenerować   listę   plików   brakujących   w   katalogu i takich, które nie są na liście.
+
+Lista plików zadana jest w pliku nazwanym lista. 
+Przykładowy katalog z plikami nazwany jest kat.
+
+Wywołanie dla obecnych danych: ./script11.sh kat lista

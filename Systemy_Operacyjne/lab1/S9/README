@@ -1,0 +1,7 @@
+Skrypt nr 9 
+Kasowanie wszystkich plików pustych (o zerowej wielkości) w zadanym katalogu (parametr wywołania  skryptu).  Skrypt powinien  tworzyć  w  zadanym  pliku  listę  skasowanych  plików.  Nie powinien analizować dołączeń symbolicznych.
+
+W katalogu nazwanym kat znajdują się obecnie 3 pliki - plik1, plik2, plik3. plik1 oraz plik3 są plikami pustymi i zostaną one skasowane z przykładowego katalogu. Pozostanie w nim plik2. Lista usuniętych plików dostępna będzie w pliku nazwanym skasowane, który jest również parametrem w przykładowym wywołaniu skryptu.
+
+przykładowe wywołanie: ./script9.sh kat skasowane
+

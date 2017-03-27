@@ -1,0 +1,8 @@
+Skrypt nr 6 
+Łączenie  w  jeden  plików  z  listy,  umieszczonej    w  pliku  o  zadanej  nazwie  (parametr  wywołania  skryptu.  Kolejność,  w  jakiej  pliki  zostaną  połączone  -  ściśle  według  listy.  Treść każdego pliku powinna być poprzedzona nagłówkiem z jego nazwą. Plik wynikowy powinien mieć nazwę pliku pierwotnie zawierającego listę. 
+
+Wszystkie pliki zawarte są w katalogu bieżącym. Plik z listą plików, które mają być złączone znajdują się w pliku plik_z_lista.
+Pliki sa laczone w pliku plik_z_lista, kasowana jest zawartosc poczatkowa tego pliku (zawierajaca liste plikow)
+Obecnie pliki ktore znajduja sie na liscie to plik1 oraz plik3
+
+wykonanie dla obecnych danych: ./script6.sh plik_z_lista

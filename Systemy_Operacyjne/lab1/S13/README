@@ -1,0 +1,10 @@
+Skrypt nr 13 
+Usuwanie  z  zadanego  katalogu  (pierwszy  argument  skryptu)  wszystkich  plików,  których  nazwy   pokrywają   się   z   nazwami   w   drugim   katalogu   (drugi   argument).   Nie   usuwaj podkatalogów.   Nie   usuwaj   również   plików   o   nazwach   pokrywających   się   z   nazwami   podkatalogów w drugim katalogu. 
+
+Utworzono dwa przykładowe katalogi: kat1 oraz kat2.
+Zawartosc kat1: plik bartek - który jest jednocześnie katalogiem w kat2 i nie powinien być usunięty w wyniku wykonania skryptu, 
+plik1 oraz plik3 - które są zawarte również w kat2 i powinny być usunięte z kat1, 
+dir1 oraz dir2 - podkatalogi które nie powinny być usunięte, mimo że w kat2 znajduje się również podkatalog dir1
+plik2 - plik, którego nie ma w kat2 i powinien pozostać po wykonaniu skryptu
+
+wykonanie dla obecnych danych: ./script13.sh kat1 kat2

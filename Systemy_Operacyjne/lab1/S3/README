@@ -1,0 +1,7 @@
+Skrypt nr 3 
+Kasowanie  wszystkich  plików  w  zadanym  katalogu  (parametr  wywołania  skryptu),  poza plikami wykonywalnymi, mającymi ustawiony bit dostępu typu „execute”. 
+
+Pliki do skasowania znajduja sie w katalogu kat.
+Plik 'executable' nazwany plik_exe
+
+wywołanie dla przykładowych danych: ./script3.sh kat

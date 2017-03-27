@@ -1,0 +1,6 @@
+Skrypt nr 15 
+Policzenie wszystkich plików w zadanym katalogu (parametr wywołania skryptu), do których ustawione jest prawo dostępu do wykonania („execute”). 
+
+Katalog, w którym są pliki nazwany jest kat. plik2, plik4, plik5 mają ustanowione prawo do wykonywania. Po wykonaniu skryptu wyswietlane jest odpowiednie zdanie oraz ilosc plikow.
+
+Wykonanie: ./script15.sh kat

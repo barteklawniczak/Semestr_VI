@@ -1,0 +1,6 @@
+Skrypt nr 14 
+Ustawienie  na  aktualny  czasu  ostatniej  modyfikacji  wszystkich  plików  zadanego  katalogu  (parametr wywołania skryptu), do których mamy prawo dostępu do zapisu/modyfikacji.
+
+Katalog służący do testowania - kat. Znajdują się w nim cztery pliki oraz jeden podkatalog. Ponieważ w zadaniu nie jest wyszczególnione czy dla podkatalogów również należy ustawić aktualny czas ostatniej modyfikacji, również i dla niego wykonuje się powyższa czynność.
+
+Wykonanie: ./script14.sh kat 
