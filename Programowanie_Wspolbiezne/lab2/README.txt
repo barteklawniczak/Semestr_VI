@@ -1,4 +1,4 @@
-Laboratorium 2 - Programowanie WspÛ≥bieøne
+Laboratorium 2 - Programowanie Wsp√≥≈Çbie≈ºne
 
-Zliczanie ilosci liczb pierwszych w podanym przedziale.
-Tworzenie procesÛw potomnych za pomocπ funkcji fork, execl, system.
+Zliczanie liczb pierwszych w podanym przedziale.
+Tworzenie proces√≥w potomnych za pomoc≈° funkcji fork, execl, system.
